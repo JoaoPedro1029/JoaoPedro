@@ -12,5 +12,5 @@ Acredito fortemente que para quebrar um sistema, primeiro é preciso entender pe
   💻 Tecnologias e Conceitos que estudo diariamente:
 - Protocolos: HTTP/HTTPS, SSH, DNS, DHCP, FTP, Telnet.
 - Sistemas: Linux (Terminal/Linha de Comando).
-- Ferramentas: Termux, Nmap (básico), Wireshark (análise conceitual).
+- Ferramentas: Termux, Nmap, Wireshark (análise conceitual).
 
